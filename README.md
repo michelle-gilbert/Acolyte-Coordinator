@@ -13,6 +13,6 @@ I learned the internal tools and language of PCO to create reports to help the C
 
 Included in this repository
 - original report from PCO which lead to more questions than answers  
--     (report format MGilbert - Acolyte and Coffee Bar future schedule with login info)
+-- (report format PlanningCenterOnline - Acolyte and Coffee Bar future schedule)
 - sample ad hoc report that I created to provide more details on the confirmand's use of PCO  
--     (report format PlanningCenterOnline - Acolyte and Coffee Bar future schedule)
+-  (report format MGilbert - Acolyte and Coffee Bar future schedule with login info)
