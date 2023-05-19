@@ -12,5 +12,5 @@ Worked on a two person volunteer team with a church staff member in coordinating
 I learned the internal tools and language of PCO to create reports to help the Confirmation Leaders know which students and/or families either need assistance using the software or encouragement to get on the schedule to fulfill the program requirements.
 
 Included in this repository
-- sample ad hoc report that I created
-- 
+- original report from PCO which lead to more questions than answers
+- sample ad hoc report that I created to provide more details on the confirmand's use of PCO
