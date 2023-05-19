@@ -16,3 +16,7 @@ Included in this repository
 -- (report format PlanningCenterOnline - Acolyte and Coffee Bar future schedule)
 - sample ad hoc report that I created to provide more details on the confirmand's use of PCO  
 -- (report format MGilbert - Acolyte and Coffee Bar future schedule with login info)
+
+How to use the reports in the repository:
+- open "report format PlanningCenterOnline - Acolyte and Coffee Bar future schedule" to see the original report and the pros and cons of the report format
+- open "report format MGilbert - Acolyte and Coffee Bar future schedule with login info" to view the new report that provides more information to understand how the PCO system is being used by the confirmands.
